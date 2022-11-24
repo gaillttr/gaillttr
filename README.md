@@ -1,16 +1,15 @@
--Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Titaree
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm, Titaree
 ===============================================================================================================================
 
 Now, I’m currently studying for a bachelor's degree in computer science. 🤓
 
-* 🌍  I'm based in Bankok, Thailand
-* 📚  I’m currently learning Frameworks, courses etc.
+* 📚  I’m currently learning new Frameworks, courses to improve my skill etc.
 * 💬  Ask me about node.js, react and design.
 * 😻  Pronouns: Gail
 * 📮  You can contact me at [titaree.jum@dome.tu.ac.th](mailto:titaree.jum@dome.tu.ac.th)
 
-### Skills
 
+### Skills 💻
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -42,7 +41,7 @@ Now, I’m currently studying for a bachelor's degree in computer science. 🤓
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" width="54" alt="git logo"  />
 </p>
 
-### Badges
+### Badges 
 <a href="http://www.github.com/gaillttr"><img src="https://github-readme-stats.vercel.app/api?username=gaillttr&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="gaillttr's GitHub stats" /></a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaillttr&layout=compact)](https://github.com/gaillttr)
 
 
