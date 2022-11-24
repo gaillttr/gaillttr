@@ -43,8 +43,9 @@ Now, I’m currently studying for a bachelor's degree in computer science. 🤓
 </p>
 
 ### Badges
-<a href="http://www.github.com/gaillttr"><img src="https://github-readme-stats.vercel.app/api?username=gaillttr&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="gaillttr's GitHub stats" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaillttr&layout=compact)](https://github.com/gaillttr)
+<a href="http://www.github.com/gaillttr"><img src="https://github-readme-stats.vercel.app/api?username=gaillttr&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="gaillttr's GitHub stats" /></a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaillttr&layout=compact)](https://github.com/gaillttr)
+
+
 <!---
 gaillttr/gaillttr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
