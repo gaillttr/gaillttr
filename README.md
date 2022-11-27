@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Now, I’m currently studying for a bachelor's degree in computer science. 🤓
 
-* 📚  I’m currently learning new Frameworks, courses to improve my skill etc.
+* 📚  I’m currently learning Golang, new Frameworks, courses to improve my skill etc.
 * 💬  Ask me about node.js, react and design.
 * 😻  Pronouns: Gail
 * 📮  You can contact me at [titaree.jum@dome.tu.ac.th](mailto:titaree.jum@dome.tu.ac.th)
