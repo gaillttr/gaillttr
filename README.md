@@ -6,7 +6,7 @@ Now, I’m currently studying for a bachelor's degree in computer science. 🤓
 * 📚  I’m currently learning Golang, React Frameworks and AI courses to improve my skill etc.
 * 💬  Ask me about frontend, node.js and design.
 * 😻  Pronouns: Gail
-* 📮  You can contact me at [titaree.jum@dome.tu.ac.th](mailto:titaree.jum@gmail.com)
+* 📮  You can contact me at [titaree.jum@gmail.com](mailto:titaree.jum@gmail.com)
 
 
 ### Skills   💻
